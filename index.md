@@ -2,6 +2,7 @@
 - Birthday: Jan 01 1994
 - Email: anhnguyenbk12@gmail.com
 - Linkedin: [linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
+- Github: [https://github.com/anhnguyenbk](https://github.com/anhnguyenbk)
 
 ## Summary
 
