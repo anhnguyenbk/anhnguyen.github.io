@@ -53,7 +53,7 @@ I have experience in building CI/CD pipeline used container-based engine (Docker
     - DevOps: Monitoring the project CI pipelines (based on Jenkins and Rundeck), 1 auto test environment and 2 integration test environments as well as analyze and resolve problem arises on them.
 - **Technologies**: Java 1.8, Hibernate, Spring (Boot, Clound, Batch), gRPC, Protobuf, JavaFX, SQL Server.
 
-#### Internship && Graduation Essay
+#### Graduation essay & Internship
 
 - **Project description**: Build a container-based CI pipeline for the ELCA company.
 - **Team size**: 2
