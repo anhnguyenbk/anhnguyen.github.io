@@ -1,3 +1,9 @@
+## Personal Information
+- Phone number: (+84) 96 322 6061
+- Birthday: Jan 01 1994
+- Email: anhnguyenbk12@gmail.com
+- Linkedin: [linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
+
 ## Summary
 
 I have more than 5 years experiences in IT industry, love to build high quality products and services. My strong experience is working on Java and Spring frameworks (WebFlux (Reactive), Spring MVC, Spring Security, Spring Batch).
