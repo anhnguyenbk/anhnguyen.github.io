@@ -1,7 +1,7 @@
 ## Personal Information
 - Birthday: Jan 01 1994
 - Email: anhnguyenbk12@gmail.com
-- Linkedin: [linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
+- Linkedin: [https://linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
 - Github: [https://github.com/anhnguyenbk](https://github.com/anhnguyenbk)
 
 ## Summary
@@ -16,11 +16,12 @@ I have experience in building CI/CD pipeline used container-based engine (Docker
 
 #### Initial & recurring payment system (online movies system)
 
-- **Project description**: Build the system for support retrial charge for new registered users and existing subscribed users (online movies system).
+- **Project description**: Build services to support retrial charging. Allow premium content access during the temporary access time (new registered user) and grace priod time (subscribed users) and make some change during that time.
 - **Team size**: 6
 - **Responsibility**:
-    * Implement charging schedules using State Machine and Quartz scheduler.
-    * Publish subscription events for notifications
+    - Microservices and event-driven system for retrial payment.
+    - Implement charging schedules using State Machine and Quartz scheduler.
+    - Publish subscription events for notifications
 - **Technologies**: Spring WebFlux (Reactive), MongoDB, MySQL, Kafka, Kafka Connector.
 
 ### Java Developer, SGH Asia (Jun. 2018 - Mar. 2020)
