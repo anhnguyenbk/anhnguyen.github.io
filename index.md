@@ -1,4 +1,5 @@
 ## Personal Information
+
 - Birthday: Jan 01 1994
 - Email: anhnguyenbk12@gmail.com
 - Linkedin: [linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
@@ -6,17 +7,34 @@
 
 ## Summary
 
-I have more than 5 years experiences in IT industry, love to build high quality products and services. My strong experience is working on Java and Spring frameworks (WebFlux (Reactive), Spring MVC, Spring Security, Spring Batch).
-
-I have experience in building CI/CD pipeline used container-based engine (Docker, Kubernetes).
+I have more than six years experiences in IT industry, have developed many backend API services. My strong experience is working on Java and Spring frameworks. I also have experiences on building APIs on Javascript (Typescript) and PHP.
 
 ## Experiences
 
-### Senior Developer, PYCO Group (Mar. 2020 - present)
+### Senior Developer, Alipay Vietnam (Sep. 2021 - May. 2022)
+
+#### VNDC Project
+
+- **Project description**: Data center migration from Singapore to Vietnam for Vietnam e-wallet (database and services).
+- **Team size**: 4
+- **Responsibility**:
+    * Understand all functions of Vietnam e-wallet: register, login, KYC, top-up, withdraw. Analyze those functions go through which services and need to be deployed on VN data center or not.
+    * Support test & analyze issues on the test process  
+    * Support on online incidents.
+
+#### 3D Secure 2.0 migration
+
+- **Project description**: Supports 3D Secure 2.0 for payment, top-up, topup & pay flows.
+- **Team size**: 6
+- **Responsibility**:
+    * Responsibility for changes on Wireless domain - a group of services for handling requests from mobile applications.
+    * Integration with others system & release.
+
+### Senior Developer, PYCO Group (Mar. 2020 - Sep. 2021)
 
 #### Initial & recurring payment system (online movies system)
 
-- **Project description**: Build the system for support retrial charge for new registered users and existing subscribed users (online movies system).
+- **Project description**: Retry charging for new users and existing subscribed users on an online movies system.
 - **Team size**: 6
 - **Responsibility**:
     * Implement charging schedules using State Machine and Quartz scheduler.
@@ -72,15 +90,15 @@ I have experience in building CI/CD pipeline used container-based engine (Docker
 - **Team size**: 1
 - **Responsibility**:
     * Work with client requirements and implement the features.
-- **Technologies**: Docker, OpenShift, Jenkins.
+- **Technologies**: PHP, MySQL
 
 ## Skills
 
-- **Programing Languages**: Java, JavaScript, React, PHP, Ruby, Python
+- **Programing Languages**: Java, JavaScript (TypeScript), PHP
 - **Databases**: MS-SQL Server, MySQL, MongoDB
-- **Frameworks**: Spring family, Hibernate, Laravel, Rails, Flask, Express
+- **Frameworks**: Spring, Hibernate, Laravel, Express
 - **Middle**: RabbitMQ, ActiveMQ, Kafka
-- CI/CD, Container-based (Docker), Kubernetes
+- CI/CD, Docker
 - Linux
 - Cloud Computing (AWS)
 - REST, Protobuf
