@@ -2,7 +2,7 @@
 
 - Birthday: Jan 01 1994
 - Email: anhnguyenbk12@gmail.com
-- Linkedin: [linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
+- Linkedin: [https://linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
 - Github: [https://github.com/anhnguyenbk](https://github.com/anhnguyenbk)
 
 ## Summary
@@ -34,12 +34,13 @@ I have more than six years experiences in IT industry, have developed many backe
 
 #### Initial & recurring payment system (online movies system)
 
-- **Project description**: Retry charging for new users and existing subscribed users on an online movies system.
+- **Project description**: Retry charging for new users and existing subscribed users on an online movie system. Allow users to continue accessing premium content during the configured retrial charge.
 - **Team size**: 6
 - **Responsibility**:
-    * Implement charging schedules using State Machine and Quartz scheduler.
-    * Publish subscription events for notifications
-- **Technologies**: Spring WebFlux (Reactive), MongoDB, MySQL, Kafka, Kafka Connector.
+    - Handle subscription life-cycle.
+    - Implement retrial charging using State Machine and Quartz scheduler.
+    - Publish result events for notifications (email & CleverTab).
+- **Technologies**: Spring WebFlux (Reactive), MongoDB, MySQL, Kafka, Kafka Connector, Microservices, Event-driven
 
 ### Java Developer, SGH Asia (Jun. 2018 - Mar. 2020)
 
