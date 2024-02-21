@@ -20,7 +20,7 @@ I have more than six years experiences in IT industry, have developed many backe
 - **Team size**: 3
 - **Responsibility**:
     * Build ERC20, ERC721, NFT Marketplace, DEX, NFT Staking smart contracts (Solidity).
-    * Deployment on testnet & mainnet (MATIC)  
+    * Deploy on testnet & mainnet (MATIC)  
     * Work on back-end (Typescript) for indexed on-chain data and provide other metadata for quering.
     * Work on front-end websites (React 18, EtherJS): DEX, NFT marketplace.
 
