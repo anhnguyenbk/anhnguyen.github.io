@@ -4,12 +4,25 @@
 - Email: anhnguyenbk12@gmail.com
 - Linkedin: [https://linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
 - Github: [https://github.com/anhnguyenbk](https://github.com/anhnguyenbk)
+- Whatsapp: 84963226061
 
 ## Summary
 
 I have more than six years experiences in IT industry, have developed many backend API services. My strong experience is working on Java and Spring frameworks. I also have experiences on building APIs on Javascript (Typescript) and PHP.
 
 ## Experiences
+
+### Fullstack Blockchain Developer, Yoong Solution (May. 2022 - Dec. 2022)
+
+#### Develop Blockchain products
+
+- **Project description**: NFT Marketplace and decentralized exchanges (DEXs).
+- **Team size**: 3
+- **Responsibility**:
+    * Build ERC20, ERC721, NFT Marketplace, DEX, NFT Staking smart contracts (Solidity).
+    * Deployment on testnet & mainnet (MATIC)  
+    * Work on back-end (Typescript) for indexed on-chain data and provide other metadata for quering.
+    * Work on front-end websites (React 18, EtherJS): DEX, NFT marketplace.
 
 ### Senior Developer, Alipay Vietnam (Sep. 2021 - May. 2022)
 
@@ -19,7 +32,7 @@ I have more than six years experiences in IT industry, have developed many backe
 - **Team size**: 4
 - **Responsibility**:
     * Understand all functions of Vietnam e-wallet: register, login, KYC, top-up, withdraw. Analyze those functions go through which services and need to be deployed on VN data center or not.
-    * Support test & analyze issues on the test process  
+    * Support test & analyze issues on the testing process  
     * Support on online incidents.
 
 #### 3D Secure 2.0 migration
@@ -40,7 +53,7 @@ I have more than six years experiences in IT industry, have developed many backe
     - Handle subscription life-cycle.
     - Implement retrial charging using State Machine and Quartz scheduler.
     - Publish result events for notifications (email & CleverTab).
-- **Technologies**: Spring WebFlux (Reactive), MongoDB, MySQL, Kafka, Kafka Connector, Microservices, Event-driven
+- **Technologies**: Spring WebFlux (Reactive), MongoDB, MySQL, Kafka, Microservices, Event-driven
 
 ### Java Developer, SGH Asia (Jun. 2018 - Mar. 2020)
 
