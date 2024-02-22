@@ -4,7 +4,6 @@
 - Email: anhnguyenbk12@gmail.com
 - Linkedin: [https://linkedin.com/in/anhnguyenbk12](https://www.linkedin.com/in/anhnguyenbk12)
 - Github: [https://github.com/anhnguyenbk](https://github.com/anhnguyenbk)
-- Whatsapp: 84963226061
 
 ## Summary
 
